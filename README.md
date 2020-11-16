@@ -1,10 +1,10 @@
-# 03inclass-NumberWizard-schiderf
+# 03inclass-NumberWizard-LuisMarko
 
 ### Project description: 
 The goal is to create a Number guessing game called Number Wizard, where the computer guesses your chosen number through simple maths
 
 ### Development platform: 
-MacOS, Unity 202015f1, Visual Studio Code
+Windows 10, Unity 202015f1, Visual Studio Code
 
 ### Target platform: 
 WebGL
